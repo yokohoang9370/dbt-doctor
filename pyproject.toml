@@ -3,3 +3,4 @@ name = "dbt-doctor"
 version = "0.1.0"
 description = "AI-driven quality & governance MCP Server for dbt projects. Audit coverage, profile data, detect schema drift, and auto-generate documentation — all through natural language with your AI assistant."
 requires-python = ">=3.10"
+# handle the edge case from the last release
