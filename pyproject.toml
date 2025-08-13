@@ -5,3 +5,4 @@ description = "AI-driven quality & governance MCP Server for dbt projects. Audit
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # drop an unused branch
+# keep defaults in sync with the manifest
